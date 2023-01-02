@@ -4,4 +4,4 @@ A simple Static React app which applies the concept of useState, useContext, Con
 
 <em>The app uses filter buttons which can be used to filter the menu according to the time of meal.</em>
 
-[![Link - View App Here](https://img.shields.io/static/v1?label=Link&message=View+App+Here&color=2ea0ff&style=for-the-badge)](https://food-menu.onrender.com/)
+[![Link - View App Here](https://img.shields.io/static/v1?label=Link&message=View+App+Here&color=2ea0ff&style=for-the-badge)](https://food-menu-usecontext.netlify.app/)
